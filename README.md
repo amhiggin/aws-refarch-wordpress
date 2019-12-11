@@ -319,3 +319,5 @@ It relies on WordPress and OPcache:
 - WordPress is licensed under the General Public License (GPLv2 or later) from the Free Software Foundation.
 
 - OPcache is licensed under PHP License, version 3.01.
+
+Lab Material: http://webapp-workshop.com/application/lab5/
